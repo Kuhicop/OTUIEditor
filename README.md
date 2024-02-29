@@ -9,7 +9,7 @@ Visual OTUI designer with .OTUI file generator.
 
 ## Build
 
-- [Download and install Qt 5.13.0+](https://www.qt.io/download-qt-installer)
+- [Download and install Qt 5.13.0+](https://download.qt.io/archive/qt/5.13/5.13.0/)
 - Open Qt Creator
 - Import project file
 - Build
